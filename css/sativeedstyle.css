@@ -34,11 +34,7 @@ img {
   max-width: 100%;
 }
 
-/* -------------------------------- 
 
-Modules - reusable parts of our design
-
--------------------------------- */
 .cd-img-replace {
   /* replace text with a background-image */
   display: inline-block;
@@ -47,11 +43,6 @@ Modules - reusable parts of our design
   white-space: nowrap;
 }
 
-/* -------------------------------- 
-
-Main components 
-
--------------------------------- */
 .cd-section {
   min-height: 100%;
   position: relative;
@@ -121,7 +112,7 @@ Main components
   background: url("../img/cd-arrow-bottom.svg") no-repeat center center;
 }
 
-/* No Touch devices */
+    /* No Touch devices */
 .cd-nav-trigger {
   display: none;
 }
