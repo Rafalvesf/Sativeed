@@ -13,7 +13,7 @@ html * {
 body {
   font-size: 100%;
   font-family: 'Yuji Boku', serif;
-  color: #3e3947;
+  color: #605c68;
   background-color: white;
 }
 
@@ -45,10 +45,10 @@ img {
   padding: 2em 0;
 }
 .cd-section:nth-of-type(odd) {
-  background-color: #2c6d62;
+  background-color: #6da1a7;
 }
 .cd-section:nth-of-type(odd) p {
-  color: #898099;
+  color: #0a1a16;
 }
 .cd-section:nth-of-type(even) {
   background-color: #745360;
@@ -84,7 +84,7 @@ img {
 @media only screen and (min-width: 768px) {
   .cd-section h1 {
     font-size: 30px;
-    font-size: 1.875rem;
+    font-size: 3.8rem;
   }
   .cd-section p {
     font-size: 20px;
