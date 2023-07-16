@@ -82,7 +82,7 @@ img {
 .cd-section p {
   font-family: 'Roboto Mono', monospace;
   line-height: 1.6;
-  left: 55%;
+  left: 40%;
 }
 @media only screen and (min-width: 768px) {
   .cd-section h1 {
@@ -98,7 +98,7 @@ img {
 
   .sativeedbox {
     text-align: right;
-    margin-left: 55%;
+    margin-left: 50%;
     margin-right: auto;
     margin-top: 15%;
     height: 60%;
@@ -108,7 +108,7 @@ img {
   .buybutton {
     font-family: 'Roboto Mono', monospace;
     font-size: 100%;
-    position: absolute;
+    position: fixed;
     top:100%;
     background-color:#ffffff;
     color: #000000;
